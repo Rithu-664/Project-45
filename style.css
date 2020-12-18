@@ -1,0 +1,13 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+  
+  margin-left: 270px;
+  margin-right: 700px;
+  margin-top: 200px;
+  
+  border: 2px solid rgb(0,128,128);
+}
